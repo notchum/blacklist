@@ -1,0 +1,9 @@
+! Title: Adguard Blacklist by notchum
+! Source: https://raw.githubusercontent.com/notchum/blacklist/master/adguard.txt
+! Home: https://github.com/notchum/blacklist
+
+||secure-asts-twitch.nielsencensusharmonizationprod.com	^
+||om.forgeofempires.com^
+||video-edge-9608f9.pdx01.abs.hls.ttvnw.net^
+||prd.jwpltx.com^
+||jx8p.com^
